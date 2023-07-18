@@ -29,14 +29,23 @@ import React from 'react';
 import Header from './Header';
 import Footer from './Footer';
 import Home from './Home';
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import RentABike from './RentABike';
+import CheckReservation from './CheckReservation';
 
 function App() {
   return (
-    <div>
-      <Header />
-      <Home />
-      <Footer />
-    </div>
+    <Router>
+      <div>
+        <Header />
+        <Routes>
+          <Route path="/rent-a-bike" element={<RentABike/>}/>
+          <Route path="/check-reservation" element={<CheckReservation/>}/>
+          <Route path="/" element={<Home/>}/>
+        </Routes>
+        <Footer />
+      </div>
+    </Router>
   );
 }
 
