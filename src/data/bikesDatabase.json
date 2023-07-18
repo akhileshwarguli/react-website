@@ -1,0 +1,266 @@
+{
+    "mountainBikes": [
+      {
+        "id": 1,
+        "brand": "Trek",
+        "model": "X-Caliber 9",
+        "tireSize": "29",
+        "frameSize": "M",
+        "price": 1500,
+        "unavailableDates": [
+          "2023-07-25",
+          "2023-07-30",
+          "2023-08-05"
+        ]
+      },
+      {
+        "id": 2,
+        "brand": "Giant",
+        "model": "Reign 2",
+        "tireSize": "27.5",
+        "frameSize": "L",
+        "price": 2300,
+        "unavailableDates": [
+          "2023-08-08",
+          "2023-08-20",
+          "2023-08-25"
+        ]
+      },
+      {
+        "id": 3,
+        "brand": "Specialized",
+        "model": "Stumpjumper Comp Carbon",
+        "tireSize": "29",
+        "frameSize": "XL",
+        "price": 3000,
+        "unavailableDates": [
+          "2023-07-28",
+          "2023-08-12",
+          "2023-08-22"
+        ]
+      },
+      {
+        "id": 4,
+        "brand": "Cannondale",
+        "model": "Trail 5",
+        "tireSize": "27.5",
+        "frameSize": "S",
+        "price": 1200,
+        "unavailableDates": [
+          "2023-07-20",
+          "2023-07-27",
+          "2023-08-06"
+        ]
+      },
+      {
+        "id": 5,
+        "brand": "Santa Cruz",
+        "model": "Hightower C S",
+        "tireSize": "29",
+        "frameSize": "L",
+        "price": 4000,
+        "unavailableDates": [
+          "2023-07-23",
+          "2023-08-07",
+          "2023-08-17"
+        ]
+      },
+      {
+        "id": 6,
+        "brand": "Canyon",
+        "model": "Spectral CF",
+        "tireSize": "27.5",
+        "frameSize": "M",
+        "price": 2800,
+        "unavailableDates": [
+          "2023-07-18",
+          "2023-08-02",
+          "2023-08-13"
+        ]
+      },
+      {
+        "id": 7,
+        "brand": "Yeti",
+        "model": "SB140",
+        "tireSize": "29",
+        "frameSize": "L",
+        "price": 5000,
+        "unavailableDates": [
+          "2023-07-26",
+          "2023-08-10",
+          "2023-08-19"
+        ]
+      },
+      {
+        "id": 8,
+        "brand": "GT",
+        "model": "Sensor Carbon Pro",
+        "tireSize": "29",
+        "frameSize": "XL",
+        "price": 3400,
+        "unavailableDates": [
+          "2023-07-21",
+          "2023-08-09",
+          "2023-08-21"
+        ]
+      },
+      {
+        "id": 9,
+        "brand": "Scott",
+        "model": "Spark 970",
+        "tireSize": "29",
+        "frameSize": "M",
+        "price": 2100,
+        "unavailableDates": [
+          "2023-07-19",
+          "2023-08-03",
+          "2023-08-14"
+        ]
+      },
+      {
+        "id": 10,
+        "brand": "Niner",
+        "model": "RKT 9 RDO 2-Star",
+        "tireSize": "29",
+        "frameSize": "L",
+        "price": 2700,
+        "unavailableDates": [
+          "2023-07-24",
+          "2023-08-04",
+          "2023-08-18"
+        ]
+      },
+      {
+        "id": 11,
+        "brand": "Norco",
+        "model": "Fluid FS 2",
+        "tireSize": "27.5",
+        "frameSize": "S",
+        "price": 1800,
+        "unavailableDates": [
+          "2023-07-22",
+          "2023-08-06",
+          "2023-08-16"
+        ]
+      },
+      {
+        "id": 12,
+        "brand": "Yeti",
+        "model": "SB165",
+        "tireSize": "27.5",
+        "frameSize": "XL",
+        "price": 5500,
+        "unavailableDates": [
+          "2023-07-23",
+          "2023-08-07",
+          "2023-08-17"
+        ]
+      },
+      {
+        "id": 13,
+        "brand": "Cannondale",
+        "model": "Jekyll 4",
+        "tireSize": "29",
+        "frameSize": "M",
+        "price": 3200,
+        "unavailableDates": [
+          "2023-07-18",
+          "2023-08-02",
+          "2023-08-13"
+        ]
+      },
+      {
+        "id": 14,
+        "brand": "Yeti",
+        "model": "ARC",
+        "tireSize": "29",
+        "frameSize": "L",
+        "price": 3800,
+        "unavailableDates": [
+          "2023-07-26",
+          "2023-08-10",
+          "2023-08-19"
+        ]
+      },
+      {
+        "id": 15,
+        "brand": "Giant",
+        "model": "Anthem Advanced Pro 29 1",
+        "tireSize": "29",
+        "frameSize": "XL",
+        "price": 4800,
+        "unavailableDates": [
+          "2023-07-21",
+          "2023-08-09",
+          "2023-08-21"
+        ]
+      },
+      {
+        "id": 16,
+        "brand": "Scott",
+        "model": "Genius 960",
+        "tireSize": "27.5",
+        "frameSize": "M",
+        "price": 2000,
+        "unavailableDates": [
+          "2023-07-19",
+          "2023-08-03",
+          "2023-08-14"
+        ]
+      },
+      {
+        "id": 17,
+        "brand": "Canyon",
+        "model": "Neuron CF SLX 9.0",
+        "tireSize": "29",
+        "frameSize": "L",
+        "price": 5500,
+        "unavailableDates": [
+          "2023-07-24",
+          "2023-08-04",
+          "2023-08-18"
+        ]
+      },
+      {
+        "id": 18,
+        "brand": "Niner",
+        "model": "Air 9 RDO",
+        "tireSize": "27.5",
+        "frameSize": "S",
+        "price": 3200,
+        "unavailableDates": [
+          "2023-07-22",
+          "2023-08-06",
+          "2023-08-16"
+        ]
+      },
+      {
+        "id": 19,
+        "brand": "Yeti",
+        "model": "SB130",
+        "tireSize": "29",
+        "frameSize": "XL",
+        "price": 4500,
+        "unavailableDates": [
+          "2023-07-23",
+          "2023-08-07",
+          "2023-08-17"
+        ]
+      },
+      {
+        "id": 20,
+        "brand": "Cannondale",
+        "model": "Scalpel Carbon 3",
+        "tireSize": "29",
+        "frameSize": "M",
+        "price": 3200,
+        "unavailableDates": [
+          "2023-07-18",
+          "2023-08-02",
+          "2023-08-13"
+        ]
+      }
+    ]
+  }
+  
+  
